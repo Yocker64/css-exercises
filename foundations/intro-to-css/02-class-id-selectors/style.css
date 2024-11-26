@@ -1,0 +1,27 @@
+
+.odd-line{
+    background-color: rgb(255,166,167);
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+}
+#title{
+    color: rgb(00, 00, 250);
+    font-size: 54px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+
+}
+#subtitle{
+    background-color: rgb(129,254,128);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.odd-line.cooler{
+    font-size: 45px;
+    font-weight: 600;
+}
